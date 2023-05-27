@@ -1,0 +1,4 @@
+gcc parent.c -o parent -lglut -lGLU -lGL
+gcc child.c -o child
+
+./parent
